@@ -1,0 +1,2 @@
+# wax
+proyecto de ejemplo
